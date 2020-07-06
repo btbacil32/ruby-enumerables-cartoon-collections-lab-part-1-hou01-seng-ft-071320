@@ -15,7 +15,7 @@ def list_dwarves(dwarves)
   
   
   
-  dwarves.list { |list, item|
+  dwarves.list |list, item|
     puts 
-  }
+  
 end
