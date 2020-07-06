@@ -3,7 +3,8 @@ def greet_characters(dwarves)
   #
   # Print a custom greeting for each element
   
-  do 
+  dwarves.each do |dwarves|
+    puts "Hello #{dwarves}"
   
 end
 
