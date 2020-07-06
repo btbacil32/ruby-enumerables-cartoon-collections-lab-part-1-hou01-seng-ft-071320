@@ -1,4 +1,4 @@
-def greet_characters(array)
+def greet_characters(dwarves)
   # Use `each` to enumerate over the provided array
   #
   # Print a custom greeting for each element
